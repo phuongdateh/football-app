@@ -40,4 +40,8 @@ Watch highlights of a previous match.
 Feel free to explore the codebase and documentation to understand the architecture and implementation details.
 
 ## GIFs
+| Home Page | Videos Highlights |
+| :---:   | :---: | 
+| ![](https://github.com/phuongdateh/football-app/blob/master/1gif.gif) | ![](https://github.com/phuongdateh/football-app/blob/master/2gif.gif) | 
+
 
