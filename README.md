@@ -2,14 +2,11 @@
 ### Overview
 Welcome to the Football App, a simple iOS application designed to provide users with information about football matches, teams, and highlights. This app follows the MVVM design pattern, uses UIKit and Combine for functional reactive programming, and builds the entire project's UI programmatically. Core Data integration ensures offline access to matches and teams, and the app conforms to the API Design Guidelines and Swift Style Guide.
 
-### Functional Requirements
-Display Matches:
-
-View a list of previous and upcoming matches.
-Team Details:
-Select a team to view detailed information.
-Highlights:
-Watch highlights of a previous match.
+### Functional
+* Display All Team
+* Select a team to view detailed information.
+* View a list of previous and upcoming matches.
+* Watch highlights of a previous match.
 
 ## Technical Stack
 * UIKit: Building the UI programmatically.
