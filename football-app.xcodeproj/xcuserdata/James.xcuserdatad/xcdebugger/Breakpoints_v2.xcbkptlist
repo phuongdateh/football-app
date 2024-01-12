@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "72A1FDC0-2EB8-4FCA-8422-18462C7B4899"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC465408-1B84-4025-BBE2-FA0523CAA49B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Persistence/CoreDataStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "init(directory:domainMask:version:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E38FE72-4F1F-493D-9188-828D94B55AE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Persistence/CoreDataStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "init(directory:domainMask:version:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56FD4C9D-93C2-4CDB-8DB8-F0735193635F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Persistence/CoreDataStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "init(directory:domainMask:version:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "56FD4C9D-93C2-4CDB-8DB8-F0735193635F - e06b445ffdc04b88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () -&gt; () in football_app.CoreDataStack.init(directory: __C.NSSearchPathDirectory, domainMask: __C.NSSearchPathDomainMask, version: Swift.UInt) -&gt; football_app.CoreDataStack"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Persistence/CoreDataStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "56FD4C9D-93C2-4CDB-8DB8-F0735193635F - badda6dc9217b8ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 @Sendable () -&gt; () in football_app.CoreDataStack.init(directory: __C.NSSearchPathDirectory, domainMask: __C.NSSearchPathDomainMask, version: Swift.UInt) -&gt; football_app.CoreDataStack"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Persistence/CoreDataStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "192">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BB04F62F-4944-4C56-96E9-9A9C9D6BC0FA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Persistence/CoreDataStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init(directory:domainMask:version:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BB04F62F-4944-4C56-96E9-9A9C9D6BC0FA - badda6dc9217b93d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 @Sendable () -&gt; () in football_app.CoreDataStack.init(directory: __C.NSSearchPathDirectory, domainMask: __C.NSSearchPathDomainMask, version: Swift.UInt) -&gt; football_app.CoreDataStack"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Persistence/CoreDataStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "BB04F62F-4944-4C56-96E9-9A9C9D6BC0FA - 9884132ea79efdf3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 @Sendable () -&gt; () in football_app.CoreDataStack.init(directory: __C.NSSearchPathDirectory, domainMask: __C.NSSearchPathDomainMask, version: Swift.UInt) -&gt; football_app.CoreDataStack"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Persistence/CoreDataStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D3401F7-1890-4A6C-805B-7BF9792071C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Persistence/CoreDataStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "init(directory:domainMask:version:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0D3401F7-1890-4A6C-805B-7BF9792071C9 - 9884132ea79efc10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 @Sendable () -&gt; () in football_app.CoreDataStack.init(directory: __C.NSSearchPathDirectory, domainMask: __C.NSSearchPathDomainMask, version: Swift.UInt) -&gt; football_app.CoreDataStack"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Persistence/CoreDataStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "0D3401F7-1890-4A6C-805B-7BF9792071C9 - 9884132ea79efc10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (__C.NSPersistentStoreDescription, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 @Sendable () -&gt; () in football_app.CoreDataStack.init(directory: __C.NSSearchPathDirectory, domainMask: __C.NSSearchPathDomainMask, version: Swift.UInt) -&gt; football_app.CoreDataStack"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Persistence/CoreDataStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "204">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FF1D8B9-F04C-4A93-8596-BE4998F05405"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Network/Services/FootballService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "refreshTeams()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1FF1D8B9-F04C-4A93-8596-BE4998F05405 - 7fe94bf3d346af63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "football_app.RealFootballService.refreshTeams() -&gt; Combine.AnyPublisher&lt;(), Swift.Error&gt;"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Network/Services/FootballService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "1FF1D8B9-F04C-4A93-8596-BE4998F05405 - 7fe94bf3d346a90d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "football_app.RealFootballService.refreshTeams() -&gt; Combine.AnyPublisher&lt;(), Swift.Error&gt;"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Network/Services/FootballService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "132">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F5163D6A-D589-44BD-A951-F3A0FCBA2CEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/UI/ViewControllers/TeamDetailViewControler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "bindingViewModels()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05D1D846-AB99-410C-9E3D-5DF11885BAB3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Services/FootballService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "getPreviousMatches(of:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BE6AB706-08E4-45E1-8693-F4C7BCEEAE6C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Services/FootballService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "refreshMatches()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8B5A212-33FB-47F5-88B5-C0042EF860C8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Services/FootballService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "getPreviousMatches(of:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DDB75E3E-8D21-43EE-BE19-79F3C34E7075"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "football-app/Services/FootballService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getPreviousMatches(of:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DDB75E3E-8D21-43EE-BE19-79F3C34E7075 - fdd8fe83e37d9765"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Array&lt;football_app.FootballMatch&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;football_app.FootballMatch&gt;, Swift.Error&gt; in football_app.RealFootballService.getPreviousMatches(of: football_app.FootballTeam) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;football_app.FootballMatch&gt;, Swift.Error&gt;"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Services/FootballService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "DDB75E3E-8D21-43EE-BE19-79F3C34E7075 - 18596afd3eabf7b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (football_app.FootballMatch) -&gt; Swift.Bool in closure #4 (Swift.Array&lt;football_app.FootballMatch&gt;) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;football_app.FootballMatch&gt;, Swift.Error&gt; in football_app.RealFootballService.getPreviousMatches(of: football_app.FootballTeam) -&gt; Combine.AnyPublisher&lt;Swift.Array&lt;football_app.FootballMatch&gt;, Swift.Error&gt;"
+                  moduleName = "football-app"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/James/Codes/Interview/football-app/football-app/Services/FootballService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "200">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
