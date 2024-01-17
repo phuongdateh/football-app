@@ -89,24 +89,6 @@ struct RealFootballService: FootballService {
             .eraseToAnyPublisher()
     }
 
-//    func getAllTeam() -> AnyPublisher<LazyList<FootballTeam>, Error> {
-//        Just<LazyList<FootballTeam>>
-//            .withErrorType(.empty, Error.self)
-//            .flatMap { [dbRepository] _ -> AnyPublisher<Bool, Error> in
-//                dbRepository.hasLoadedTeams()
-//            }
-//            .flatMap { hasLoaded in
-//                guard hasLoaded else {
-//                    return refreshTeams()
-//                }
-//                return Just<Void>.withErrorType(Error.self)
-//            }
-//            .flatMap { [dbRepository] in
-//                dbRepository.allTeam()
-//            }
-//            .eraseToAnyPublisher()
-//    }
-
     func getAllMatch() -> AnyPublisher<[FootballMatch], Error> {
         Just<[FootballMatch]>
             .withErrorType([FootballMatch](), Error.self)
