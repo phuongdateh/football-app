@@ -34,11 +34,41 @@ Welcome to the Football App, a simple iOS application designed to provide users 
 2. Open the Xcode football-app.xcodeproj
 3. Build and run the project.
 
-Feel free to explore the codebase and documentation to understand the architecture and implementation details.
+## Approach to Solving:
+
+1. Identify the Problem:
+* Start by reproducing the issue and understanding when and how the synchronization fails.
+* Check for any inconsistencies between the local CoreData store and the remote data source (perhaps a backend server).
+
+2. Data Model and Relationships:
+* Ensure that the CoreData data model is set up correctly with proper relationships and constraints.
+* Review how the data model aligns with the requirements of the MVVM architecture.
+
+3. Concurrency and Threading:
+* CoreData operates on its own managed object context (MOC) queue. Ensure that you are handling concurrency and threading correctly.
+* Check if any CoreData operations are being performed on the main thread, which might cause UI freezes.
+  
+4. Update Notification Handling:
+Verify that the MVVM architecture is handling CoreData update notifications properly. The ViewModel should react to changes in the model and update the View accordingly.
+5. Synchronization Logic:
+* Examine the synchronization logic between devices. Ensure that data is being properly fetched, updated, and saved.
+* Check if there are any conflicts arising from simultaneous updates on different devices.
+6. Unit Testing:
+* Write unit tests to cover CoreData operations, especially those related to synchronization.
+* Use breakpoints and debugging tools to step through the code and inspect variables during the synchronization process.
+
+## What I Learned:
+1. Concurrency Management: Understand the intricacies of managing concurrency in CoreData, especially when dealing with multiple devices and synchronization.
+
+2. Testing Strategies: The importance of comprehensive unit testing, especially for critical components like CoreData operations. This not only aids in catching bugs early but also serves as a safety net during future changes.
+
+3. Data Flow in MVVM: A deeper understanding of how data flows between the Model, ViewModel, and View in the MVVM architecture, and how to handle updates seamlessly.
+
+4. Logging and Debugging: The effectiveness of extensive logging and using debugging tools to trace and identify complex issues in a distributed system.
 
 ## GIFs
-| Home Page | Videos Highlights |
-| :---:   | :---: | 
-| ![](https://github.com/phuongdateh/football-app/blob/master/1gif.gif) | ![](https://github.com/phuongdateh/football-app/blob/master/2gif.gif) | 
+| Home Page | Videos Highlights | Filter | 
+| :---:   | :---: | :---: | 
+| ![](https://github.com/phuongdateh/football-app/blob/master/1gif.gif) | ![](https://github.com/phuongdateh/football-app/blob/master/2gif.gif) | ![](https://github.com/phuongdateh/football-app/blob/master/3.gif) |
 
 
